@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh1921
 - 👀 I’m interested in Web Development, Solution Consulting and System Design
-- 🌱 I’m currently learning MERN Stack, Cloud technology and upskilling on Syetem Design
+- 🌱 I’m currently learning MERN Stack, Cloud technology and upskilling on System Design
 - 💞️ I’m looking to collaborate on nothing as of now. Will let you know when I do :)
 - 📫 How to reach me: Feel free to drop me a mail on saurabh1921@gmail.com
 
